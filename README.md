@@ -15,4 +15,4 @@ Learn everything you need to about the subject of this `Tutorial` project.
 
 ## Topics
 
-* [ ] [(1) Rubyfuza 2019- Stefan Wintermeyer - Rails vs. Hanami vs. Phoenix - YouTube](https://www.youtube.com/watch?v=yZNvpRtclP8&t=242s)
+* [x] [(1) Rubyfuza 2019- Stefan Wintermeyer - Rails vs. Hanami vs. Phoenix - YouTube](https://www.youtube.com/watch?v=yZNvpRtclP8&t=242s)
